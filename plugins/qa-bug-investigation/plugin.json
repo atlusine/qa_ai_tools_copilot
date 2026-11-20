@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "qa-bug-investigation",
+  "version": "0.0.1",
+  "description": "Investigate, reproduce and report bugs. (Lesson 3 — not yet implemented.)",
+  "author": {
+    "name": "Lusine"
+  },
+  "keywords": ["qa", "bugs", "investigation"]
+}

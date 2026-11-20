@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "qa-test-design",
+  "version": "0.1.0",
+  "description": "Design structured manual test cases from requirements, user stories or acceptance criteria.",
+  "author": {
+    "name": "Lusine"
+  },
+  "keywords": ["qa", "test-design", "manual-testing", "test-cases"]
+}

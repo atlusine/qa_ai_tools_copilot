@@ -1,0 +1,20 @@
+{
+  "name": "qa-ai-tools",
+  "owner": {
+    "name": "Lusine"
+  },
+  "metadata": {
+    "description": "QA workflow plugins for GitHub Copilot: test design, bug investigation and test automation.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "qa-test-design",
+      "source": "./plugins/qa-test-design",
+      "description": "Design structured manual test cases from requirements, user stories or acceptance criteria.",
+      "version": "0.1.0",
+      "category": "testing",
+      "keywords": ["qa", "test-design", "manual-testing", "test-cases"]
+    }
+  ]
+}
